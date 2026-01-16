@@ -1,3 +1,5 @@
 # Lab 2
 
-![Lab Image](image.png)
+## Project Screenshot
+![Lab 2 Image](lab2.png)
+
